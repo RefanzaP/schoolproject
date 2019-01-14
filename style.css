@@ -1,0 +1,41 @@
+body{
+  font-family: Arial;
+  }
+.judul{
+  text-align: center;
+  color: #000033;
+  font-weight: normal;
+  }
+.kalkulator{
+  width: 335px;
+  background: #ff6966;
+  margin: 100px auto;
+  padding: 10px 20px 50px 20px;
+  border-radius: 5px;
+  }
+.txt{
+  width: 300px;
+  margin: 5px;
+  border: none;
+  font-size: 16pt;
+  border-radius: 5px;
+  padding: 10px;
+  }
+.operator{
+  font-size: 16pt;
+  border: none;
+  width: 300px;
+  margin: 5px;
+  border-radius: 5px;
+  padding: 10px;
+  }
+.tombol{
+  background: #000033;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-radius: 5px;
+  padding: 10px 40px;
+  color: #eee;
+  font-size: 15pt;
+  }
